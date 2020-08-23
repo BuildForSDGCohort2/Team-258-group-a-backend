@@ -6,7 +6,7 @@ const router = express.Router()
 
 router.route('/')
   .get( (req,res) => {
-    res.send({status:"ok",message:"Welcome to Fumana backend"})
+    res.send({status:"ok",message:"Welcome to Fumana backend /n by team-258-group-a "})
   })
 
 router.route('/api/users')
