@@ -1,7 +1,7 @@
 {
-  "name": "stand_alone_node_backend",
+  "name": "Fumana_backend",
   "version": "1.0.0",
-  "description": "A basic stand alone node backend",
+  "description": "A basic stand alone node backendfor Fumana",
   "main": "index.js",
   "author": "Dibwe Kalangu",
   "license": "MIT",
